@@ -1,1 +1,1 @@
-web: python welcome.py
+web: python bmx-sample-broker.py
